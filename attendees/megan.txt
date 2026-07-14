@@ -1,1 +1,1 @@
-Hello, I am a developer learning Git! 
+Hello, I am Megan and I am learning Git! 
